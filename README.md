@@ -38,7 +38,7 @@ In this work, we present an end-to-end software-hardware framework that supports
 ## Software Requirements
 - Run distributed computers 
 - Perform Machine Learning tasks using Onboard Intel GPU
-- ROS Indigo Or Melodic
+- ROS Indigo Or Noetic
 - Ubuntu 16.04 or 20.04 
 - Python 2.7, 3.7 or above
 - C/C++
