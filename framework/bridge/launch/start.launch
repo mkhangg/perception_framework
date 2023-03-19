@@ -1,0 +1,12 @@
+<launch>
+	<include file="$(find learnlab_rosie_nuc)/launch/hands.launch"/>
+	
+	<!-- <node pkg="apps" type="server.py" name="controller_server" args="0 0 0 0 0 0 world map 100" /> -->
+	
+	<node pkg="apps" type="server.py" name="controller_server" />
+	
+	<node pkg="baxter_interface" type="joint_trajectory_action_server.py" name="joint_trajectory_action_server"/>
+	
+	<include file="$(find apps)/launch/moveit.launch"/>
+	
+</launch>
