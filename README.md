@@ -12,6 +12,7 @@
 </p>
 
 ## Abstract
+In this work, we present an end-to-end software-hardware framework that supports both conventional hardware and software components and integrates machine learning object detectors without requiring an additional dedicated graphic processor unit (GPU). We first design our framework to achieve real-time performance on the robot system, guarantee configuration optimization, and concentrate on code reusability. We then mathematically model and utilize our transfer learning strategies for 2D object detection and fuse them into depth images for 3D depth estimation. Lastly, we systematically test the proposed framework and method on the Baxter robot with two 7-DOF arms and a four-wheel mobility base. The results show that the robot achieves real-time performance while executing other tasks (map building, localization, navigation, object detection, arm moving, and grasping) simultaneously with available hardware like **Intel onboard GPUs** on distributed computers. Also, to comprehensively control, program, and monitor the robot system, we design and introduce an end-user application.
 
  
 ## Graphic User Interface
@@ -40,6 +41,7 @@
 - Ubuntu 16.04 or 20.04 
 - Python 2.7, 3.7 or above
 - C/C++
+- OpenVINO
 
 ## Acknowledgments
 
