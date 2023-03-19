@@ -8,7 +8,7 @@
 - [Manfred Huber, UT Arlington, USA](https://www.uta.edu/academics/faculty/profile?username=huber)
 
  <p align="center">
-<img src="images/fw.png" alt="" width="600"/>
+<img src="images/fw.png" alt="" width="800"/>
 </p>
 
 ## Abstract
