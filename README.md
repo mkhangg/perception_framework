@@ -16,7 +16,7 @@ In this work, we present an end-to-end software-hardware framework that supports
 
  
 ## Graphic User Interface
-
+<p align="center">
 <img src="images/gui2.png" alt="" width="900"/>
 </p>
  
@@ -25,8 +25,9 @@ In this work, we present an end-to-end software-hardware framework that supports
 - Joint Teaching
 - World Position Monitor and Transformation
 - Base control: Move Left/Right/Backward/Forward, Turn Left/Right
+- Hands control
 - Python download and execute on Robot
-<p align="center">
+
 
  ## Results
 <p align="center">
