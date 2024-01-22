@@ -55,7 +55,13 @@ In this work, we present an end-to-end software-hardware framework that supports
  
 ## Citing
 ```
-To be included!
+@inproceedings{dang2023perfc,
+  title={Perfc: An efficient 2d and 3d perception software-hardware framework for mobile cobot},
+  author={Dang, Tuan and Nguyen, Khang and Huber, Manfred},
+  booktitle={The International FLAIRS Conference Proceedings},
+  volume={36},
+  year={2023}
+}
 ```
 
 
